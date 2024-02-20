@@ -1,5 +1,3 @@
-//resource link: https://www.w3schools.com/jquery/default.asp
-
 $(document).ready(function(){
 
     $("#box").hide();
@@ -24,5 +22,4 @@ $(document).ready(function(){
         $("#box").hide();
         $("#box").css("background-color", "gold");
     });
-
 });
